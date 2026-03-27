@@ -11,6 +11,12 @@ This tool solves the "manual data entry" problem for online stores:
 3. **Map:** Intelligent mapping of supplier items to existing store products.
 4. **Combine:** Generates a consolidated Excel file or a **direct SQL update script**.
 
+## 📸 Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KorneyChervonenko/price-list-combiner/main/screenshot1.jpg" width="45%" alt="Mapping and SQL Export" />
+  <img src="https://raw.githubusercontent.com/KorneyChervonenko/price-list-combiner/main/screenshot2.jpg" width="45%" alt="Supplier Configuration" />
+</p>
+
 ## 💻 Tech Stack
 - **Frontend:** React 19, TypeScript, Redux Toolkit, MUI.
 - **Performance:** `react-virtualized` for handling large datasets smoothly.
